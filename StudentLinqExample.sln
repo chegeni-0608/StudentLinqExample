@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLinqExample", "StudentLinqExample\StudentLinqExample.csproj", "{D979414B-B9DA-4563-A0FB-EB9142CC491D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{49997F7D-7BDD-48EC-8B57-2ED2AC938AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D979414B-B9DA-4563-A0FB-EB9142CC491D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D979414B-B9DA-4563-A0FB-EB9142CC491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D979414B-B9DA-4563-A0FB-EB9142CC491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D979414B-B9DA-4563-A0FB-EB9142CC491D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49997F7D-7BDD-48EC-8B57-2ED2AC938AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49997F7D-7BDD-48EC-8B57-2ED2AC938AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49997F7D-7BDD-48EC-8B57-2ED2AC938AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49997F7D-7BDD-48EC-8B57-2ED2AC938AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7EE074C-E357-4520-8D75-042F206C2EBA}
+	EndGlobalSection
+EndGlobal
